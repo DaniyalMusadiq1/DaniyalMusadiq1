@@ -18,8 +18,8 @@ I'm dedicated to building meaningful projects and contributing to the open-sourc
 
 **Languages:** JavaScript, PHP, SQL  
 **Frontend:** React, Vue.js, Laravel, HTML5, CSS3  
-**Backend:** Node.js, Express, Django  
-**Tools & Platforms:** Git, Docker, GitHub, VS Code  
+**Backend:** Node.js, Express, Laravel  
+**Tools & Platforms:** Git, GitHub, VS Code  
 
 ## 📊 GitHub Stats
 
@@ -27,10 +27,9 @@ I'm dedicated to building meaningful projects and contributing to the open-sourc
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com)
+
 - 📧 Email: daniyalabbasi0349@email.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: ([https://yourportfolio.com](http://linkedin.com/in/daniyal-musadiq))
 
 ## 🎓 Learning & Growth
 

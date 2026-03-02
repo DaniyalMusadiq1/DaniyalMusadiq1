@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=React+•+Node+•+Laravel;Building+scalable+web+apps;From+Islamabad%2C+Pakistan;Open+source+enthusiast;Clean+code+advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full‑Stack+Developer+(React+•+Node+•+Laravel);From+Islamabad%2C+Pakistan;JavaScript+Enthusiast;Open+Source+Contributor;Clean+Code+Advocate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/github/stars/DaniyalMusadiq1?label=Stars&style=flat-square&color=yellow" alt="GitHub stars" />
   </a>
 </p>
+
 
 ---
 

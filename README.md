@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniyal%20Musadiq&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniyal%20Musadiq&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20•%20Node%20•%20Laravel&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code;Full-stack+craftsman;Always+learning%2C+always+sharing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=React+•+Node+•+Laravel;Building+scalable+web+apps;From+Islamabad%2C+Pakistan;Open+source+enthusiast;Clean+code+advocate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,82 +20,115 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-```yaml
-name: Daniyal Musadiq
-located_in: [Earth, Cyberspace]
-current_job: Full-Stack Developer
-education:
-  [
-    "Self-taught developer",
-    "Always in beta mode"
-  ]
-fields_of_interests:
-  [
-    "Web Development",
-    "System Design",
-    "Cloud Architecture",
-    "Machine Learning"
-  ]
-technical_philosophy: "Write code for humans first, computers second."
-currently_learning: ["System Design Patterns", "AWS", "AI/ML"]
-fun_fact: "I can center a div in my sleep."
-🛠️ Tech Stack
+Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and Laravel**, building scalable and high‑performance web applications. Skilled in creating responsive front‑end interfaces and designing robust backend systems with RESTful APIs. Experienced in Agile teams, code reviews, and Git/GitHub workflows. Passionate about writing clean, maintainable code and optimising application performance.
+
+- 🔭 I’m currently working at **Pace Technologies** as a Full‑Stack Developer  
+- 👯 I’m looking to collaborate on **open‑source projects** that solve real‑world problems  
+- 💬 Ask me about **JavaScript, React, Laravel, Node.js, and full‑stack development**  
+- 📄 Check out my [LinkedIn](http://linkedin.com/in/daniyal-musadiq) for more details  
+- ⚡ Fun fact: I won a speech competition (2023) and a 400m race (2024) – I code and I run!  
+
+---
+
+## 💼 Professional Experience
+
+### **Full‑Stack Developer** @ Pace Technologies *(Nov 2025 – Present)*
+- Developed scalable full‑stack web apps using **React.js, Laravel, and Tailwind CSS**, delivering responsive and user‑friendly interfaces.
+- Collaborated in an Agile team, implemented features, conducted code reviews, and managed version control with **Git/GitHub**.
+- Optimised backend performance by designing **RESTful APIs** and improving Laravel architecture.
+
+### **Full‑Stack Developer** @ Codes Vista *(Feb 2025 – Oct 2025)*
+- Designed and optimised RESTful APIs in **Node.js**, improving backend performance and ensuring maintainable, scalable architecture.
+- Enhanced user interfaces with modern frontend practices, boosting usability and responsiveness across devices.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### Additional
+- **Languages:** English, Urdu  
+- **Certifications:** AWS DevOps  
+- **Awards:** Speech Competition Winner (2023), Athletics Achievement – 400m Race Winner (2024), Onboarding Project Lead (2025)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| **E-Commerce** | Full‑stack e‑commerce app with modular architecture, RESTful APIs, state management, and secure authentication. | React.js, Laravel | [GitHub](https://github.com/DaniyalMusadiq1/E-Commerce-.git) |
+| **SITA Onboarding Web** | Thread‑based interaction system with file uploads, context‑aware access control, and scalable API architecture. | React.js | [Live](https://sitaonboarding.pacemis.com/) |
+| **Sport Management System** | Backend for a sports platform with structured routing, models, services, and controllers. | Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sports-Backend.git) |
+| **Trio Trips** | Travel‑planning full‑stack application with integrated booking/management features. | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/triotrip.git) |
+| **Sarn Consulting** | Decoupled architecture (frontend + CMS + serverless) demonstrating modern web design. | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sarn-Consulting.git) · [Live](https://sarnconsulting.com/) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniyalMusadiq1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMusadiq1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMusadiq1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaniyalMusadiq1&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="http://linkedin.com/in/daniyal-musadiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:daniyalabbasi0349@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/DaniyalMusadiq1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+## ☕ Support
+
+If you find my projects helpful, you can buy me a coffee!
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-profile"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/your-profile"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+---
+
 <div align="center">
-🚀 Languages & Frameworks
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
-🗄️ Databases & Tools
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniyalMusadiq1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMusadiq1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMusadiq1&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DaniyalMusadiq1&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </div>
-🌐 Connect With Me
-<div align="center">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
 
-</div>
-📈 Recent Activity
-<!--START_SECTION:activity--><!-- This section will be auto-updated by a GitHub action. You can use https://github.com/marketplace/actions/github-activity-readme to keep it fresh. --><!--END_SECTION:activity-->
-🎯 2026 Goals
-Launch a personal portfolio website
-
-Contribute to 5+ open-source projects
-
-Complete AWS Solutions Architect certification
-
-Write 12 technical blog posts
-
-Build and deploy an AI-powered app
-
-🎵 Now Vibing To
-<div align="center"> <a href="https://open.spotify.com/user/your-profile-id"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-profile-id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14b&bar_color_cover=true" alt="Spotify Now Playing" /> </a> </div>
-💝 Support My Work
-If you find my projects helpful, consider buying me a coffee!
-
-<div align="center"> <a href="https://www.buymeacoffee.com/your-profile"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /> </a> <a href="https://ko-fi.com/your-profile"> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div><div align="center">
-Last updated: 2026-03-02
-
-✨ Crafted with ❤️ by Daniyal Musadiq ✨
-
-</div> 
+<p align="center">
+  <i>Last updated: March 2026</i><br>
+  <i>✨ Crafted with ❤️ by Daniyal Musadiq ✨</i>
+</p>

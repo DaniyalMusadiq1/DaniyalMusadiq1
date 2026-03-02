@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Daniyal Musadiq</h1>
-<h3 align="center">Full‑Stack Developer | React • Node • Laravel | Building Scalable Web Apps</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniyal%20Musadiq&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20•%20Node%20•%20Laravel&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaniyalMusadiq1&label=Profile%20views&color=0e75b6&style=flat" alt="DaniyalMusadiq1" />
-  <a href="https://github.com/DaniyalMusadiq1?tab=followers">
-    <img src="https://img.shields.io/github/followers/DaniyalMusadiq1?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-  <a href="https://linkedin.com/in/daniyal-musadiq">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:daniyalabbasi0349@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+apps;Full‑stack+craftsman;Clean+code+enthusiast;Always+learning+new+tech" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <b>Islamabad, Pakistan</b> · +92 347 5544614
+  <img src="https://komarev.com/ghpvc/?username=DaniyalMusadiq1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/DaniyalMusadiq1?tab=followers">
+    <img src="https://img.shields.io/github/followers/DaniyalMusadiq1?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/DaniyalMusadiq1">
+    <img src="https://img.shields.io/github/stars/DaniyalMusadiq1?label=Stars&style=flat-square&color=yellow" alt="GitHub stars" />
+  </a>
 </p>
 
 ---
@@ -25,21 +25,10 @@
 Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and Laravel**, building scalable and high‑performance web applications. Skilled in creating responsive front‑end interfaces and designing robust backend systems with RESTful APIs. Experienced in Agile teams, code reviews, and Git/GitHub workflows. Passionate about writing clean, maintainable code and optimising application performance.
 
 - 🔭 I’m currently working at **Pace Technologies** as a Full‑Stack Developer  
-- 🌱 I’m deepening my knowledge in **System Design**, **Cloud Architecture**, and **AI/ML**  
 - 👯 I’m looking to collaborate on **open‑source projects** that solve real‑world problems  
 - 💬 Ask me about **JavaScript, React, Laravel, Node.js, and full‑stack development**  
 - 📄 Check out my [LinkedIn](http://linkedin.com/in/daniyal-musadiq) for more details  
 - ⚡ Fun fact: I won a speech competition (2023) and a 400m race (2024) – I code and I run!  
-
----
-
-## 🎓 Education
-
-- **Bachelor of Science in Computer Science**  
-  University of Azad Jammu and Kashmir (Nov 2020 – Dec 2024)
-
-- **Intermediate in Engineering (ICS)**  
-  Shaheen Model College (May 2018 – May 2020)
 
 ---
 
@@ -56,9 +45,9 @@ Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and La
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages & Frameworks
+### Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -107,6 +96,10 @@ Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and La
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMusadiq1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaniyalMusadiq1&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
@@ -115,13 +108,25 @@ Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and La
   <a href="http://linkedin.com/in/daniyal-musadiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:daniyalabbasi0349@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/DaniyalMusadiq1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
+## ☕ Support
+
+If you find my projects helpful, you can buy me a coffee!
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <a href="https://www.buymeacoffee.com/your-profile"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/your-profile"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
 <p align="center">
   <i>Last updated: March 2026</i><br>

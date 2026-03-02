@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniyal%20Musadiq&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20•%20Node%20•%20Laravel&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full‑Stack+Developer+(React+•+Node+•+Laravel);From+Islamabad%2C+Pakistan;JavaScript+Enthusiast;Open+Source+Contributor;Clean+Code+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code;Full-stack+craftsman;Always+learning%2C+always+sharing" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DaniyalMusadiq1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/DaniyalMusadiq1?tab=followers">

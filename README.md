@@ -28,7 +28,7 @@ Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and La
 - 👯 I’m looking to collaborate on **open‑source projects** that solve real‑world problems  
 - 💬 Ask me about **JavaScript, React, Laravel, Node.js, and full‑stack development**  
 - 📄 Check out my [LinkedIn](http://linkedin.com/in/daniyal-musadiq) for more details  
-- ⚡ Fun fact: I won a speech competition (2023) and a 400m race (2024) – I code and I run!  
+
 
 ---
 
@@ -65,11 +65,6 @@ Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and La
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
-### Additional
-- **Languages:** English, Urdu  
-- **Certifications:** AWS DevOps  
-- **Awards:** Speech Competition Winner (2023), Athletics Achievement – 400m Race Winner (2024), Onboarding Project Lead (2025)
 
 ---
 

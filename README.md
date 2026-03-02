@@ -86,18 +86,12 @@ Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and La
 
 <div align="center" style="background: rgba(0,0,0,0.02); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaniyalMusadiq1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMusadiq1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
-  </div>
 
   <div style="margin: 15px 0;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMusadiq1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </div>
 
-  <div style="margin-top: 15px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaniyalMusadiq1&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-  </div>
+
 
 </div>
 

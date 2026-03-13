@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code;Full-stack+craftsman;Always+learning%2C+always+sharing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code;Full-stack+craftsman;I+spit+rhymes+in+O(n+log+n)+time;Always+learning%2C+always+sharing" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DaniyalMusadiq1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/DaniyalMusadiq1?tab=followers">
@@ -18,12 +19,13 @@
   </a>
 </p>
 
-
 ---
 
 ## 🧑‍💻 About Me
 
 Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and Laravel**, building scalable and high‑performance web applications. Skilled in creating responsive front‑end interfaces and designing robust backend systems with RESTful APIs. Experienced in Agile teams, code reviews, and Git/GitHub workflows. Passionate about writing clean, maintainable code and optimising application performance.
+
+> *"I spit rhymes in O(n log n) time – efficient code and clever lines combined."*
 
 - 🔭 I’m currently working at **Pace Technologies** as a Full‑Stack Developer  
 - 👯 I’m looking to collaborate on **open‑source projects** that solve real‑world problems  
@@ -125,6 +127,7 @@ If you find my projects helpful, you can buy me a coffee!
 </div>
 
 <p align="center">
+  <b>⚡ I spit rhymes in O(n log n) time – efficient code and clever lines combined ⚡</b><br>
   <i>Last updated: March 2026</i><br>
   <i>✨ Crafted with ❤️ by Daniyal Musadiq ✨</i>
 </p>

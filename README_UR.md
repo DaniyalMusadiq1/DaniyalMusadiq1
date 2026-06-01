@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=دانیال%20موسیٰ&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React&logoHeight=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=دانیال%20مصدق&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Laravel" alt="header" />
 </div>
 
 ## 🌐 زبان / Language
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=700&lines=ٹیکنالوجی+میرا+شوق+ہے;حمیشہ+نیا+کچھ+سیکھتا+ہوں;بہترین+حل+تیار+کرتا+ہوں" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=700&lines=ٹیکنالوجی+میں+جنون;مسائل+کا+حل+ڈھونڈنا;صاف+کوڈ+لکھنا" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 میرے بارے میں
 
-میں ایک **Full-Stack Developer** ہوں جس کے پاس **React.js، Node.js، اور Laravel** میں عملی تجربہ ہے۔ میں قابل توسیع اور اعلیٰ کارکردگی والی ویب ایپلیکیشنز تیار کرنے میں ماہر ہوں۔
+میں ایک **Full-Stack Developer** ہوں جس کے پاس **React.js، Node.js، اور Laravel** میں عملی تجربہ ہے۔ میں قابل توسیع اور اعلیٰ کارکردگی والی ایپلیکیشنز بناتا ہوں۔
 
 > *"میں O(n log n) وقت میں شاعری کہتا ہوں – موثر کوڈ اور ذہین حل اکٹھے۔"*
 
@@ -94,11 +94,11 @@
 
 | 🎯 منصوبہ | 📝 تفصیل | 🛠️ ٹیکنالوجی | 🔗 لنکس |
 |----------|---------|------------|--------|
-| **ای کمرس اسٹور** | مکمل e-commerce ایپلیکیشن جس میں ماڈیولر تعمیر، RESTful APIs، State Management، اور محفوظ لاگ ان کی سہولت ہے | React.js, Laravel | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **SITA Onboarding** | Tread-based نظام جس میں فائلیں اپ لوڈ کرنا، رسائی کنٹرول، اور توسیع پذیر API تعمیر موجود ہے | React.js | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **کھیلوں کی نگرانی** | کھیل کی پلیٹ فارم کے لیے Backend جس میں routing، models، services، اور controllers موجود ہیں | Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **سفر کی تیاری** | سفر کی منصوبہ بندی کی مکمل ایپلیکیشن جس میں بکنگ اور انتظام کی سہولیات ہیں | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **Sarn Consulting** | جدید ویب ڈیزائن کو ظاہر کرتے ہوئے الگ کیے ہوئے ڈھانچے کے ساتھ (Frontend + CMS + Serverless) | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **ای کمرس اسٹور** | مکمل e-commerce ایپلیکیشن جس میں ماڈیولر تعمیر، RESTful APIs، State Management، اور محفوظ لاگ ان کی سہولت ہے | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/ecommerce-store) |
+| **SITA Onboarding** | ٹریڈ بیسڈ نظام جس میں فائلیں اپ لوڈ کرنا، رسائی کنٹرول، اور توسیع پذیر API تعمیر موجود ہے | React.js | [GitHub](https://github.com/DaniyalMusadiq1/sita-onboarding) |
+| **کھیلوں کی نگرانی** | کھیل کی پلیٹ فارم کے لیے Backend جس میں routing، models، services، اور controllers موجود ہیں | Node.js | [GitHub](https://github.com/DaniyalMusadiq1/sports-monitoring) |
+| **سفر کی تیاری** | سفر کی منصوبہ بندی کی مکمل ایپلیکیشن جس میں بکنگ اور انتظام کی سہولیات ہیں | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/travel-planner) |
+| **Sarn Consulting** | جدید ویب ڈیزائن کو ظاہر کرتے ہوئے الگ کیے ہوئے ڈھانچے کے ساتھ (Frontend + CMS + Serverless) | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/sarn-consulting) |
 
 ---
 
@@ -158,10 +158,10 @@
 <p align="center">
   <b>⚡ میں O(n log n) وقت میں شاعری کہتا ہوں – موثر کوڈ اور ذہین حل اکٹھے ⚡</b><br><br>
   <i>آخری تازہ کاری: جون 2026</i><br>
-  <i>✨ محبت کے ساتھ بنایا گیا بذریعہ دانیال موسیٰ ✨</i>
+  <i>✨ محبت کے ساتھ بنایا گیا بذریعہ دانیال مصدق ✨</i>
 </p>
 
 ---
 
 ### 📌 نوٹ
-یہ README اردو میں تیار کیا گیا ہے تاکہ اردو بولنے والے ہماری کمیونٹی بہتر طریقے سے سمجھ سکیں۔ مزید معلومات کے لیے [English Version](https://github.com/DaniyalMusadiq1/DaniyalMusadiq1/blob/main/README.md) دیکھیں۔
+یہ README اردو میں تیار کیا گیا ہے تاکہ اردو بولنے والے ہماری کمیونٹی بہتر طریقے سے سمجھ سکیں۔

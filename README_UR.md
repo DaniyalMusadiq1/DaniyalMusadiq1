@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=دانیال%20مسدق&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React&logoHeight=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=دانیال%20موسیٰ&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React&logoHeight=60" />
 </div>
 
 ## 🌐 زبان / Language
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=700&lines=ٹیکنالوجی+میرا+شوق+ہے;ہمیشہ+سیکھتا+رہتا+ہوں;صارف+دوست+حل+بناتا+ہوں" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=700&lines=ٹیکنالوجی+میرا+شوق+ہے;حمیشہ+نیا+کچھ+سیکھتا+ہوں;بہترین+حل+تیار+کرتا+ہوں" />
   </a>
 </p>
 
@@ -29,13 +29,13 @@
 
 ## 🧑‍💻 میرے بارے میں
 
-میں ایک **Full-Stack Developer** ہوں جس کے پاس **React.js، Node.js، اور Laravel** میں عملی تجربہ ہے۔ میں توسیع پذیر اور اعلیٰ کارکردگی والی ویب ایپلیکیشنز تیار کرنے میں ماہر ہوں۔
+میں ایک **Full-Stack Developer** ہوں جس کے پاس **React.js، Node.js، اور Laravel** میں عملی تجربہ ہے۔ میں قابل توسیع اور اعلیٰ کارکردگی والی ویب ایپلیکیشنز تیار کرنے میں ماہر ہوں۔
 
-> *"میں O(n log n) وقت میں اشعار کہتا ہوں – موثر کوڈ اور ذہین لائنیں اکٹھی۔"*
+> *"میں O(n log n) وقت میں شاعری کہتا ہوں – موثر کوڈ اور ذہین حل اکٹھے۔"*
 
-- 🔭 **موجودہ**: میں **Pace Technologies** میں Full-Stack Developer کے طور پر کام کر رہا ہوں
-- 👯 **تعاون**: میں اوپن سورس پروجیکٹس پر کام کرنے میں دلچسپی رکھتا ہوں
-- 💬 **مہارتیں**: JavaScript، React، Laravel، Node.js، اور Full-Stack Development
+- 🔭 **فی الوقت**: میں **Pace Technologies** میں Full-Stack Developer کے طور پر کام کر رہا ہوں
+- 👯 **تعاون**: مجھے اوپن سورس پروجیکٹس پر کام کرنا بہت پسند ہے
+- 💬 **مہارتیں**: JavaScript، React، Laravel، Node.js، اور مکمل Full-Stack Development
 - 📄 **مزید معلومات**: میری [LinkedIn Profile](http://linkedin.com/in/daniyal-musadiq) دیکھیں
 
 ---
@@ -45,22 +45,22 @@
 ### **Full-Stack Developer** @ Pace Technologies
 **نومبر 2025 – اب تک**
 
-- 🚀 **React.js، Laravel، اور Tailwind CSS** استعمال کرتے ہوئے قابلِ توسیع اور صارف دوست ویب ایپلیکیشنز تیار کیے
-- 🤝 Agile ٹیم کے ساتھ کام کیا اور **Git/GitHub** سے version control کا انتظام کیا
-- ⚡ **RESTful APIs** ڈیزائن کر کے backend کی کارکردگی میں بہتری لائی اور Laravel کی architecture کو بہتر بنایا
+- 🚀 React.js، Laravel، اور Tailwind CSS استعمال کرتے ہوئے قابل توسیع اور صارف دوست ویب ایپلیکیشنز تیار کیے
+- 🤝 Agile ٹیم کے ساتھ مل کر کام کیا اور Git/GitHub کے ذریعے Version Control کا صحیح انتظام کیا
+- ⚡ RESTful APIs ڈیزائن کر کے Backend کی کارکردگی میں بہتری لائی اور Laravel کی تعمیر کو بہتر بنایا
 
 ### **Full-Stack Developer** @ Codes Vista
 **فروری 2025 – اکتوبر 2025**
 
-- 🔧 **Node.js** میں powerful RESTful APIs ڈیزائن اور بہتری دی
-- 🎨 جدید frontend practices استعمال کرتے ہوئے صارفین کی سہولت میں اضافہ کیا
-- 📱 مختلف ڈیوائسز پر بہترین تجربہ فراہم کرنے پر توجہ دی
+- 🔧 Node.js میں طاقتور RESTful APIs ڈیزائن اور بہتری دی
+- 🎨 جدید Frontend طریقے استعمال کرتے ہوئے صارفین کی تجربہ کو بہتر بنایا
+- 📱 مختلف آلات پر بہترین صارف کا تجربہ فراہم کرنے پر توجہ دی
 
 ---
 
 ## 🛠️ ٹیکنیکی مہارتیں
 
-### 💻 پروگرامنگ زبانیں اور فریم ورکس
+### 💻 پروگرامنگ کی زبانیں اور Frameworks
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </div>
 
-### 🗄️ ڈیٹا بیسز اور ٹولز
+### 🗄️ ڈیٹا بیسز اور اوزار
 
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -90,15 +90,15 @@
 
 ---
 
-## 📂 خصوصی پروجیکٹس
+## 📂 اہم منصوبے
 
-| 🎯 پروجیکٹ | 📝 تفصیل | 🛠️ ٹیکنالوجی | 🔗 لنکس |
+| 🎯 منصوبہ | 📝 تفصیل | 🛠️ ٹیکنالوجی | 🔗 لنکس |
 |----------|---------|------------|--------|
-| **ای کمرس پلیٹ فارم** | مکمل e-commerce ایپ جس میں modular architecture، RESTful APIs، state management، اور محفوظ authentication موجود ہے | React.js, Laravel | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **SITA Onboarding** | Thread-based interaction system جس میں فائل اپ لوڈز، context-aware رسائی کنٹرول، اور قابلِ توسیع API architecture ہے | React.js | [لنک](https://github.com/DaniyalMusadiq1) |
-| **کھیل کی نگرانی** | کھیل کی پلیٹ فارم کے لیے Backend جس میں منطقی routing، models، services، اور controllers موجود ہیں | Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **سفر کی منصوبہ بندی** | سفر کی منصوبہ بندی والی مکمل ایپ جس میں بکنگ اور انتظام کی سہولیات ہیں | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **Sarn Consulting** | جدید ویب ڈیزائن کو ظاہر کرتے ہوئے decoupled architecture (frontend + CMS + serverless) | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **ای کمرس اسٹور** | مکمل e-commerce ایپلیکیشن جس میں ماڈیولر تعمیر، RESTful APIs، State Management، اور محفوظ لاگ ان کی سہولت ہے | React.js, Laravel | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **SITA Onboarding** | Tread-based نظام جس میں فائلیں اپ لوڈ کرنا، رسائی کنٹرول، اور توسیع پذیر API تعمیر موجود ہے | React.js | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **کھیلوں کی نگرانی** | کھیل کی پلیٹ فارم کے لیے Backend جس میں routing، models، services، اور controllers موجود ہیں | Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **سفر کی تیاری** | سفر کی منصوبہ بندی کی مکمل ایپلیکیشن جس میں بکنگ اور انتظام کی سہولیات ہیں | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **Sarn Consulting** | جدید ویب ڈیزائن کو ظاہر کرتے ہوئے الگ کیے ہوئے ڈھانچے کے ساتھ (Frontend + CMS + Serverless) | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
 
 ---
 
@@ -131,7 +131,7 @@
 
 ## ☕ مجھے سپورٹ کریں
 
-اگر آپ کو میری پروجیکٹس مفید لگیں تو مجھے کافی خریدنے میں مدد کریں!
+اگر آپ کو میری ایپلیکیشنیں پسند آئیں تو مجھے کافی خریدنے میں مدد کریں!
 
 <div align="center">
 
@@ -142,12 +142,12 @@
 
 ---
 
-## 🎓 میری سیکھ
+## 🎓 میری تعلیم اور ترقی
 
 - 📚 ہمیشہ نئی ٹیکنالوجی سیکھنے میں دلچسپی
-- 🔍 Problem-solving اور optimization میں شغف
-- 🌍 Global developer community کا حصہ بننے میں فخور
-- 💡 Clean code اور best practices میں یقین رکھتا ہوں
+- 🔍 مسائل کو حل کرنے اور بہتری لانے میں شغف
+- 🌍 عالمی ڈیولپر کمیونٹی کا حصہ بننے میں فخور
+- 💡 صاف کوڈ اور بہترین طریقوں میں یقین رکھتا ہوں
 
 ---
 
@@ -156,12 +156,12 @@
 </div>
 
 <p align="center">
-  <b>⚡ میں O(n log n) وقت میں اشعار کہتا ہوں – موثر کوڈ اور ذہین لائنیں اکٹھی ⚡</b><br><br>
+  <b>⚡ میں O(n log n) وقت میں شاعری کہتا ہوں – موثر کوڈ اور ذہین حل اکٹھے ⚡</b><br><br>
   <i>آخری تازہ کاری: جون 2026</i><br>
-  <i>✨ محبت کے ساتھ بنایا گیا بذریعہ دانیال مسدق ✨</i>
+  <i>✨ محبت کے ساتھ بنایا گیا بذریعہ دانیال موسیٰ ✨</i>
 </p>
 
 ---
 
 ### 📌 نوٹ
-یہ README اردو میں تیار کیا گیا ہے تاکہ اردو بولنے والے صارفین بہتر سے سمجھ سکیں۔ مزید معلومات کے لیے [English Version](https://github.com/DaniyalMusadiq1/DaniyalMusadiq1/blob/main/README.md) دیکھیں۔
+یہ README اردو میں تیار کیا گیا ہے تاکہ اردو بولنے والے ہماری کمیونٹی بہتر طریقے سے سمجھ سکیں۔ مزید معلومات کے لیے [English Version](https://github.com/DaniyalMusadiq1/DaniyalMusadiq1/blob/main/README.md) دیکھیں۔

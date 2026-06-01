@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniyal%20Musadiq&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20•%20Node%20•%20Laravel&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniyal%20Musadiq&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Laravel&descSize=25&descAlignY=51" width="100%" />
 </div>
 
+## 🌐 Language / زبان
+### Choose your preferred language:
+- **[📖 English (README.md)](https://github.com/DaniyalMusadiq1/DaniyalMusadiq1/blob/main/README.md)** ← You are here
+- **[اردو (README_UR.md)](https://github.com/DaniyalMusadiq1/DaniyalMusadiq1/blob/main/README_UR.md)** 
+
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code;Full-stack+craftsman;I+spit+rhymes+in+O(n+log+n)+time;Always+learning%2C+always+sharing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code;Full-Stack+Developer;React+%26+Node.js+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,12 +29,12 @@
 
 ## 🧑‍💻 About Me
 
-Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and Laravel**, building scalable and high‑performance web applications. Skilled in creating responsive front‑end interfaces and designing robust backend systems with RESTful APIs. Experienced in Agile teams, code reviews, and Git/GitHub workflows. Passionate about writing clean, maintainable code and optimising application performance.
+Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and Laravel**, building scalable and high‑performance web applications. Skilled in creating responsive front‑end interfaces and robust backend systems. Passionate about solving complex problems with clean, efficient code and staying updated with cutting-edge technologies.
 
 > *"I spit rhymes in O(n log n) time – efficient code and clever lines combined."*
 
-- 🔭 I’m currently working at **Pace Technologies** as a Full‑Stack Developer  
-- 👯 I’m looking to collaborate on **open‑source projects** that solve real‑world problems  
+- 🔭 I'm currently working at **Pace Technologies** as a Full‑Stack Developer  
+- 👯 I'm looking to collaborate on **open‑source projects** that solve real‑world problems  
 - 💬 Ask me about **JavaScript, React, Laravel, Node.js, and full‑stack development**  
 - 📄 Check out my [LinkedIn](http://linkedin.com/in/daniyal-musadiq) for more details  
 
@@ -75,28 +81,23 @@ Full‑Stack Developer with hands‑on experience in **React.js, Node.js, and La
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| **E-Commerce** | Full‑stack e‑commerce app with modular architecture, RESTful APIs, state management, and secure authentication. | React.js, Laravel | [GitHub](https://github.com/DaniyalMusadiq1/E-Commerce-.git) |
-| **SITA Onboarding Web** | Thread‑based interaction system with file uploads, context‑aware access control, and scalable API architecture. | React.js | [Live](https://sitaonboarding.pacemis.com/) |
-| **Sport Management System** | Backend for a sports platform with structured routing, models, services, and controllers. | Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sports-Backend.git) |
-| **Trio Trips** | Travel‑planning full‑stack application with integrated booking/management features. | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/triotrip.git) |
-| **Sarn Consulting** | Decoupled architecture (frontend + CMS + serverless) demonstrating modern web design. | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sarn-Consulting.git) · [Live](https://sarnconsulting.com/) |
+| **E-Commerce** | Full‑stack e‑commerce app with modular architecture, RESTful APIs, state management, and secure authentication. | React.js, Laravel | [GitHub](https://github.com/DaniyalMusadiq1/E-commerce-app) |
+| **SITA Onboarding Web** | Thread‑based interaction system with file uploads, context‑aware access control, and scalable API architecture. | React.js | [Live](https://sitaonboarding.pacemis.com) |
+| **Sport Management System** | Backend for a sports platform with structured routing, models, services, and controllers. | Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sports-Backend) |
+| **Trio Trips** | Travel‑planning full‑stack application with integrated booking/management features. | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/triotrip) |
+| **Sarn Consulting** | Decoupled architecture (frontend + CMS + serverless) demonstrating modern web design. | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sarn-Consulting) |
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <div align="center" style="background: rgba(0,0,0,0.02); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
 
   <div style="margin: 15px 0;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMusadiq1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </div>
 
-
-
 </div>
-
 
 ---
 
@@ -128,6 +129,6 @@ If you find my projects helpful, you can buy me a coffee!
 
 <p align="center">
   <b>⚡ I spit rhymes in O(n log n) time – efficient code and clever lines combined ⚡</b><br>
-  <i>Last updated: March 2026</i><br>
+  <i>Last updated: June 2026</i><br>
   <i>✨ Crafted with ❤️ by Daniyal Musadiq ✨</i>
 </p>

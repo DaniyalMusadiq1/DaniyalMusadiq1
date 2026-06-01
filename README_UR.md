@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=دانیال%20مسدق&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Laravel" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=دانیال%20مسدق&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React&logoHeight=60" />
 </div>
 
 ## 🌐 زبان / Language
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=700&lines=ٹیکنالوجی+کے+ساتھ+تخلیق+کریں;مستقبل+کو+کوڈ+کریں;بہتری+اور+نوآوری+میں+یقین" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=700&lines=ٹیکنالوجی+میرا+شوق+ہے;ہمیشہ+سیکھتا+رہتا+ہوں;صارف+دوست+حل+بناتا+ہوں" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 میرے بارے میں
 
-میں ایک **Full-Stack Developer** ہوں جس کے پاس **React.js، Node.js، اور Laravel** میں عملی تجربہ ہے۔ میں توسیع پذیر اور اعلیٰ کارکردگی والی ویب ایپلیکیشنز تیار کرنے میں ماہر ہوں۔ مجھے جدید ٹیکنالوجی کے ساتھ کام کرنا اور حقیقی دنیا کے مسائل کو حل کرنا بہت پسند ہے۔
+میں ایک **Full-Stack Developer** ہوں جس کے پاس **React.js، Node.js، اور Laravel** میں عملی تجربہ ہے۔ میں توسیع پذیر اور اعلیٰ کارکردگی والی ویب ایپلیکیشنز تیار کرنے میں ماہر ہوں۔
 
 > *"میں O(n log n) وقت میں اشعار کہتا ہوں – موثر کوڈ اور ذہین لائنیں اکٹھی۔"*
 
@@ -95,10 +95,10 @@
 | 🎯 پروجیکٹ | 📝 تفصیل | 🛠️ ٹیکنالوجی | 🔗 لنکس |
 |----------|---------|------------|--------|
 | **ای کمرس پلیٹ فارم** | مکمل e-commerce ایپ جس میں modular architecture، RESTful APIs، state management، اور محفوظ authentication موجود ہے | React.js, Laravel | [GitHub](https://github.com/DaniyalMusadiq1) |
-| **SITA Onboarding** | Thread-based interaction system جس میں فائل اپ لوڈز، context-aware رسائی کنٹرول، اور قابلِ توسیع API architecture ہے | React.js | [لائیو](https://sitaonboarding.pacemis.com) |
-| **کھیل کی نگرانی** | کھیل کی پلیٹ فارم کے لیے Backend جس میں منطقی routing، models، services، اور controllers موجود ہیں | Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sports-Backend) |
-| **سفر کی منصوبہ بندی** | سفر کی منصوبہ بندی والی مکمل ایپ جس میں بکنگ اور انتظام کی سہولیات ہیں | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/triotrip) |
-| **Sarn Consulting** | جدید ویب ڈیزائن کو ظاہر کرتے ہوئے decoupled architecture (frontend + CMS + serverless) | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1/Sarn-Consulting) |
+| **SITA Onboarding** | Thread-based interaction system جس میں فائل اپ لوڈز، context-aware رسائی کنٹرول، اور قابلِ توسیع API architecture ہے | React.js | [لنک](https://github.com/DaniyalMusadiq1) |
+| **کھیل کی نگرانی** | کھیل کی پلیٹ فارم کے لیے Backend جس میں منطقی routing، models، services، اور controllers موجود ہیں | Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **سفر کی منصوبہ بندی** | سفر کی منصوبہ بندی والی مکمل ایپ جس میں بکنگ اور انتظام کی سہولیات ہیں | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
+| **Sarn Consulting** | جدید ویب ڈیزائن کو ظاہر کرتے ہوئے decoupled architecture (frontend + CMS + serverless) | React.js, Node.js | [GitHub](https://github.com/DaniyalMusadiq1) |
 
 ---
 
@@ -158,7 +158,7 @@
 <p align="center">
   <b>⚡ میں O(n log n) وقت میں اشعار کہتا ہوں – موثر کوڈ اور ذہین لائنیں اکٹھی ⚡</b><br><br>
   <i>آخری تازہ کاری: جون 2026</i><br>
-  <i>✨ محبت کے ساتھ بنایا گیا بہ دانیال مسدق ✨</i>
+  <i>✨ محبت کے ساتھ بنایا گیا بذریعہ دانیال مسدق ✨</i>
 </p>
 
 ---
